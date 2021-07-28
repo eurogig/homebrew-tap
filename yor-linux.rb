@@ -1,4 +1,4 @@
-class Yor < Formula
+class YorLinux < Formula
   desc "Extensible auto-tagger for your IaC files"
   homepage "https://www.bridgecrew.io"
   version "0.1.85"
